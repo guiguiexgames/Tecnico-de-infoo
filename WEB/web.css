@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(231, 114, 235);
+    background-color: rgb(233, 24, 24);
 }
 
 h1 {
@@ -26,4 +26,28 @@ div {
     background-color: white;
     margin: 20px auto;
     border-radius: 20px;
+}
+
+#Retangulo {
+    width: 50%;
+    height: 1000px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+#Retangulo>h1{
+    text-align: center;
+    color: black;
+    text-shadow: 0px 0px;
+}
+
+h3, h4, h5, h6 {
+    text-align: center;
+}
+
+a{
+    color: darkblue;
+    font-size: 25px;
+    text-align: center;
 }
