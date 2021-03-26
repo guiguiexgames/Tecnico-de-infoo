@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(86, 248, 108);
+    background-color: rgb(172, 44, 44);
 }
 
 h1 {
@@ -23,12 +23,12 @@ a {
 div {
     width: 250px;
     height: 120px;
-    background-color: white;
+    background-color: rgb(145, 43, 43);
     margin: 20px auto;
     border-radius: 20px;
 }
 
 img{
     display: block;
-    margin: auto;
+    margin: 20px auto;   
 }

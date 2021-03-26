@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(118, 5, 163);
 }
 
 h1 {
     text-align: center;
-    color: rgb(116, 255, 255);
-    text-shadow: 1px 1px rgb(0, 0, 0);
+    color: white;
+    text-shadow: 1px 1px black;
 }
 
 h2,
@@ -17,13 +17,18 @@ p {
 
 a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: black;
 }
 
 div {
     width: 250px;
     height: 120px;
-    background-color: rgb(255, 253, 254);
+    background-color: rgb(13, 253, 193);
     margin: 20px auto;
     border-radius: 20px;
+}
+
+img{
+    display: block;
+    margin: 20px auto;   
 }
